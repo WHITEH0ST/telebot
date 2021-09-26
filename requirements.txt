@@ -1,0 +1,2 @@
+pytelegrambotAPI
+requests
